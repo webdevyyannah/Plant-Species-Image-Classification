@@ -396,7 +396,6 @@ Below are **10 test predictions** from the Preview section of Teachable Machine,
 </table>
 
 **Result:**  
-- **Input Image:** Large fan-shaped palm leaves with distinctive circular fronds
 - **Predicted Class:** Anahaw Tree
 - **Confidence Score:** 100%
 - **Actual Class:** Anahaw Tree
@@ -418,7 +417,6 @@ Below are **10 test predictions** from the Preview section of Teachable Machine,
 </table>
 
 **Result:**  
-- **Input Image:** Large tree with complex aerial root system and spreading trunk structure
 - **Predicted Class:** Balete Tree
 - **Confidence Score:** 100%
 - **Actual Class:** Balete Tree
@@ -439,8 +437,7 @@ Below are **10 test predictions** from the Preview section of Teachable Machine,
 </tr>
 </table>
 
-**Result:**  
-- **Input Image:** Tall palm tree with coconut fruits visible and characteristic feathery fronds
+**Result:** 
 - **Predicted Class:** Coconut Tree
 - **Confidence Score:** 100%
 - **Actual Class:** Coconut Tree
@@ -453,16 +450,15 @@ Below are **10 test predictions** from the Preview section of Teachable Machine,
 <table>
 <tr>
 <td width="50%">
-<img src="04.png" alt="Test Result 4 - Input" width="100%"/>
+<img src="05.png" alt="Test Result 4 - Input" width="100%"/>
 </td>
 <td width="50%">
-<img src="04_4.png" alt="Test Result 4 - Output" width="100%"/>
+<img src="05_5.png" alt="Test Result 4 - Output" width="100%"/>
 </td>
 </tr>
 </table>
 
-**Result:**  
-- **Input Image:** Coastal tree with distinctive horizontal branching and layered canopy structure
+**Result:**
 - **Predicted Class:** Talisay Tree
 - **Confidence Score:** 100%
 - **Actual Class:** Talisay Tree
@@ -475,10 +471,10 @@ Below are **10 test predictions** from the Preview section of Teachable Machine,
 <table>
 <tr>
 <td width="50%">
-<img src="05.png" alt="Test Result 5 - Input" width="100%"/>
+<img src="04.png" alt="Test Result 5 - Input" width="100%"/>
 </td>
 <td width="50%">
-<img src="05_5.png" alt="Test Result 5 - Output" width="100%"/>
+<img src="04_4.png" alt="Test Result 5 - Output" width="100%"/>
 </td>
 </tr>
 </table>
@@ -497,7 +493,7 @@ Below are **10 test predictions** from the Preview section of Teachable Machine,
 <table>
 <tr>
 <td width="50%">
-<img src="06.png" alt="Test Result 6 - Input" width="100%"/>
+<img src="6.png" alt="Test Result 6 - Input" width="100%"/>
 </td>
 <td width="50%">
 <img src="06_6.png" alt="Test Result 6 - Output" width="100%"/>
@@ -506,7 +502,6 @@ Below are **10 test predictions** from the Preview section of Teachable Machine,
 </table>
 
 **Result:**  
-- **Input Image:** Small tree with numerous round fruits and dense foliage on branches
 - **Predicted Class:** Santol Tree
 - **Confidence Score:** 100%
 - **Actual Class:** Santol Tree
@@ -519,19 +514,18 @@ Below are **10 test predictions** from the Preview section of Teachable Machine,
 <table>
 <tr>
 <td width="50%">
-<img src="07.png" alt="Test Result 7 - Input" width="100%"/>
+<img src="07_7.png" alt="Test Result 7 - Input" width="100%"/>
 </td>
 <td width="50%">
-<img src="07_7.png" alt="Test Result 7 - Output" width="100%"/>
+<img src="7.png" alt="Test Result 7 - Output" width="100%"/>
 </td>
 </tr>
 </table>
 
 **Result:**  
-- **Input Image:** Tall coastal tree with characteristic horizontal tiered branching pattern
-- **Predicted Class:** Talisay Tree
+- **Predicted Class:** Mango Tree
 - **Confidence Score:** 100%
-- **Actual Class:** Talisay Tree
+- **Actual Class:** Mango Tree
 - **Status:** ✅ Correct
 
 ---
@@ -541,19 +535,18 @@ Below are **10 test predictions** from the Preview section of Teachable Machine,
 <table>
 <tr>
 <td width="50%">
-<img src="08.png" alt="Test Result 8 - Input" width="100%"/>
+<img src="8.png" alt="Test Result 8 - Input" width="100%"/>
 </td>
 <td width="50%">
-<img src="08_8.png" alt="Test Result 8 - Output" width="100%"/>
+<img src="8_8.png" alt="Test Result 8 - Output" width="100%"/>
 </td>
 </tr>
 </table>
 
-**Result:**  
-- **Input Image:** Tree with clusters of small round fruits hanging from branches
-- **Predicted Class:** Lanzones Tree
+**Result:** 
+- **Predicted Class:** Ilang-Ilang Tree
 - **Confidence Score:** 100%
-- **Actual Class:** Lanzones Tree
+- **Actual Class:** Ilang-Ilang Tree
 - **Status:** ✅ Correct
 
 ---
@@ -563,19 +556,18 @@ Below are **10 test predictions** from the Preview section of Teachable Machine,
 <table>
 <tr>
 <td width="50%">
-<img src="09.png" alt="Test Result 9 - Input" width="100%"/>
+<img src="9.png" alt="Test Result 9 - Input" width="100%"/>
 </td>
 <td width="50%">
-<img src="09_9.png" alt="Test Result 9 - Output" width="100%"/>
+<img src="9_9.png" alt="Test Result 9 - Output" width="100%"/>
 </td>
 </tr>
 </table>
 
-**Result:**  
-- **Input Image:** Tree with abundant hanging oval-shaped fruits with visible stems
-- **Predicted Class:** Mango Tree
+**Result:** 
+- **Predicted Class:** Cacao Tree
 - **Confidence Score:** 100%
-- **Actual Class:** Mango Tree
+- **Actual Class:** Cacao Tree
 - **Status:** ✅ Correct
 
 ---
@@ -585,19 +577,19 @@ Below are **10 test predictions** from the Preview section of Teachable Machine,
 <table>
 <tr>
 <td width="50%">
-<img src="010.png" alt="Test Result 10 - Input" width="100%"/>
+<img src="10.png" alt="Test Result 10 - Input" width="100%"/>
 </td>
 <td width="50%">
-<img src="010_10.png" alt="Test Result 10 - Output" width="100%"/>
+<img src="10_10.png" alt="Test Result 10 - Output" width="100%"/>
 </td>
 </tr>
 </table>
 
 **Result:**  
 - **Input Image:** Tree laden with multiple yellow-green oval fruits hanging in clusters
-- **Predicted Class:** Mango Tree
+- **Predicted Class:** Banana Tree
 - **Confidence Score:** 100%
-- **Actual Class:** Mango Tree
+- **Actual Class:** Banana Tree
 - **Status:** ✅ Correct
 
 ---

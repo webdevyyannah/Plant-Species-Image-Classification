@@ -65,7 +65,7 @@ The coconut tree, often called the "Tree of Life," is a tall palm that can grow 
 ### 4. Mahogany Tree
 
 <div align="center">
-<img src="mahogany.jpg" alt="Mahogany Tree" width="500"/>
+<img src="mahogany.jpeg" alt="Mahogany Tree" width="500"/>
 </div>
 
 **Common Name:** Mahogany  
@@ -79,7 +79,7 @@ Mahogany is a large, deciduous tree that can reach heights of 30-40 meters. It h
 ### 5. Talisay Tree
 
 <div align="center">
-<img src="talisay.jpg" alt="Talisay Tree" width="500"/>
+<img src="talisay.webp" alt="Talisay Tree" width="500"/>
 </div>
 
 **Common Name:** Talisay (Indian Almond)  
@@ -205,7 +205,7 @@ Douglas fir is a large evergreen conifer that can grow 40-80 meters tall in its 
 ### 14. Balimbing Tree
 
 <div align="center">
-<img src="balimbing.jpg" alt="Balimbing Tree" width="500"/>
+<img src="balimbing.webp" alt="Balimbing Tree" width="500"/>
 </div>
 
 **Common Name:** Balimbing (Starfruit)  
@@ -233,7 +233,7 @@ Cacao is a small evergreen tree growing 4-8 meters tall with large, glossy leave
 ### 16. Malunggay Tree
 
 <div align="center">
-<img src="malunggay.jpg" alt="Malunggay Tree" width="500"/>
+<img src="moringa-tree-pruned.webp" alt="Malunggay Tree" width="500"/>
 </div>
 
 **Common Name:** Malunggay (Moringa)  
@@ -247,7 +247,7 @@ Malunggay is a fast-growing, drought-resistant tree typically growing 5-10 meter
 ### 17. Balete Tree
 
 <div align="center">
-<img src="balete.jpg" alt="Balete Tree" width="500"/>
+<img src="balete.webp" alt="Balete Tree" width="500"/>
 </div>
 
 **Common Name:** Balete (Strangler Fig)  
@@ -289,7 +289,7 @@ Bamboo is actually a giant woody grass, not a true tree, growing in dense clumps
 ### 20. Areca Tree
 
 <div align="center">
-<img src="areca.jpg" alt="Areca Tree" width="500"/>
+<img src="Areca_Palm_8_FGT.jpg.jpeg" alt="Areca Tree" width="500"/>
 </div>
 
 **Common Name:** Areca (Betel Nut Palm)  
@@ -321,7 +321,7 @@ Areca is a slender palm tree growing 12-20 meters tall with a smooth, ringed tru
 ### Training Settings Screenshot
 
 <div align="center">
-<img src="train_model.png" alt="Training Settings" width="700"/>
+<img src="train model.png" alt="Training Settings" width="700"/>
 </div>
 
 *Screenshot showing the training parameters configured in Teachable Machine*

@@ -643,7 +643,7 @@ To further improve the model, several enhancements could be implemented. First, 
 
 **Dianah Myra Salazar**  
 - GitHub: [@webdevyyannah](https://github.com/webdevyyannah)
-- Course: [Your Course Name/Code]
+- Course: CSC 120
 - Activity: Laboratory Work 2-A — Tree Species Image Classification
 
 ---

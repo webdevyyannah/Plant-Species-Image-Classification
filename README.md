@@ -27,12 +27,13 @@ The purpose of this image classification model is to:
 </div>
 
 **Common Name:** Mangrove Tree
-**Scientific Name:** *Rhizophora apiculata*  
+**Scientific Name:** *Rhizophora apiculata*
 
 **Description:**  
 Mangrove trees are salt-tolerant plants that grow in coastal areas, especially in muddy shorelines and tidal zones. They have strong prop roots that support them in soft soil and help them survive waves and tides. Their thick leaves help them tolerate salty conditions. Mangroves protect coastlines from erosion and serve as important habitats for fish and other marine animals.
 
 ---
+
 
 ### 2. Ilang-Ilang Tree
 
